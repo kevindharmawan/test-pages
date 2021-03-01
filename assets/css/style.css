@@ -132,6 +132,10 @@
   font-weight:      bold;
 }
 
+.footer {
+  font-size: 12px;
+}
+
 pre {
   border:        3px solid rgba(255, 255, 255, 0.15);
   padding:       10px; 

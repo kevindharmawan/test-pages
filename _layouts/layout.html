@@ -10,6 +10,7 @@
 <div class="container">
   <header>
   <div class="row">
+    <center>
     <div>
       <img src="{{ site.baseurl }}/assets/images/cbk.jpg" alt="Cicak Bin Kadal" style="width:130px; border-radius:50%">
     </div>
@@ -20,10 +21,8 @@
     <div>
       {% if page.author %}{{ page.author | escape }}
       {% else %}{{ site.author | escape }}{% endif %}
-      ---
-      {% if page.address %}{{ page.address | escape }}
-      {% else %}{{ site.address | escape }}{% endif %}
     </div>
+    </center>
 <!-- 
     <div class="column left">
       <img src="{{ site.baseurl }}/assets/images/cbk.jpg" alt="Cicak Bin Kadal" style="width:130px; border-radius:50%">
