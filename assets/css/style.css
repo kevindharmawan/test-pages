@@ -136,6 +136,10 @@
   font-size: 12px;
 }
 
+.info {
+  border: 3px solid green;
+}
+
 pre {
   border:        3px solid rgba(255, 255, 255, 0.15);
   padding:       10px; 
