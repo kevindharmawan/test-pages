@@ -25,7 +25,7 @@
 }
 
 .container a {
-  color: white;
+  color: green;
 }
 
 .container a:hover {
@@ -123,6 +123,7 @@
 
 .navbar ul li a {
   text-decoration: none;
+  color: white;
 }
 
 .navbar ul li a:hover {
@@ -138,7 +139,7 @@
 .info {
   border: 3px solid green;
   padding: 20px;
-  font-size: 0.7em;
+  font-size: 0.9em;
 }
 
 pre {
