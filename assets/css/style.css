@@ -138,6 +138,7 @@
 
 .info {
   border: 3px solid green;
+  padding: 20px;
 }
 
 pre {
@@ -146,6 +147,11 @@ pre {
   color:         #b5e853;
   font-size:     0.7em; 
   border-radius: 2px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
 }
 
 /*
