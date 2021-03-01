@@ -26,6 +26,7 @@
 
 .container a {
   color: green;
+  text-decoration: none;
 }
 
 .container a:hover {
